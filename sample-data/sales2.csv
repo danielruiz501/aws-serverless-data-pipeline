@@ -1,0 +1,4 @@
+order_id,customer,product,category,quantity,price,order_date
+1011,Ricardo,Phone,Electronics,1,900,2026-07-09
+1012,Ana,Speaker,Electronics,2,120,2026-07-09
+1013,Carlos,Desk,Furniture,1,500,2026-07-09

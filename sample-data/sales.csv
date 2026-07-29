@@ -1,0 +1,11 @@
+order_id,customer,product,category,quantity,price,order_date
+1001,Ana,Laptop,Electronics,1,1200,2026-07-01
+1002,Carlos,Mouse,Electronics,2,25,2026-07-02
+1003,María,Desk,Furniture,1,350,2026-07-02
+1004,José,Chair,Furniture,4,90,2026-07-03
+1005,Laura,Keyboard,Electronics,3,45,2026-07-04
+1006,Pedro,Monitor,Electronics,2,280,2026-07-05
+1007,Sofía,Lamp,Home,5,30,2026-07-06
+1008,Diego,Notebook,Office,10,8,2026-07-06
+1009,Elena,Printer,Office,1,220,2026-07-07
+1010,Miguel,Tablet,Electronics,2,450,2026-07-08
