@@ -99,8 +99,11 @@ Project screenshots are available in the `screenshots` folder.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Daniel Ruiz López**
+Daniel Ruiz López
 
-AWS Data Engineer | AWS Cloud | SQL | Python | Amazon Athena | AWS Glue
+AWS Data Engineer Portfolio
+
+- GitHub: [danielruiz501](https://github.com/danielruiz501)
+- LinkedIn: [Daniel Ruiz López](https://www.linkedin.com/in/danielruizl/)
